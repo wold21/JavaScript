@@ -1,4 +1,4 @@
-// Vatiable Swapping
+// Variable Swapping
 let mon = "Sat";
 let sat = "Mon";
 
